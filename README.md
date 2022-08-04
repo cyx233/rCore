@@ -1,5 +1,5 @@
-# rCore-Tutorial-v3
-a Unix-like operation system based on Rust
+# rCore
+a Unix-like RISC-V operation system based on Rust
 
 base features: context switch, memory paging, filesystem, pipe and I/O redirect. 
 
