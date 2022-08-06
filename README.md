@@ -1,5 +1,5 @@
 # rCore
-a Unix-like RISC-V operation system in Rust
+a Unix-like operating system in Rust, based on RV32I
 
 ### base features
 - context switch
